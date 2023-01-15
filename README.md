@@ -1,4 +1,4 @@
-# Determinant calculation
+# Determinant calculation 行列式の計算
 
 ## language
 
@@ -7,6 +7,8 @@
 ## description
 
 `calc.py` contains the function that can calculate NxN matrix.
+
+NxN がどれだけ多くても計算することができます。
 
 ```python
 ary = [
